@@ -1,0 +1,16 @@
+{
+		"40t132836m0k6q35lmn3ds82d38uv00d": {
+			"content": "127.0.0.1",
+			"name": "bar.example.org",
+			"proxied": false,
+			"ttl": 1,
+			"type": "CNAME"
+		},
+		"bc0179rei87981c6e36y4931b23iwu13": {
+			"content": "bar.example.org",
+			"name": "foo.example.org",
+			"proxied": true,
+			"ttl": 1,
+			"type": "CNAME"
+		}
+}
